@@ -1,5 +1,14 @@
-.App {
+.App,.Contactform,.Loginform {
   text-align: center;
+}
+
+
+.Loginform_Card{
+  height:400px;
+  width:25%;
+  margin: auto;
+  padding:1%;
+  margin-top:5%;
 }
 
 .App-logo {
