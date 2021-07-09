@@ -46,6 +46,8 @@ const logoutHandler=(event)=>{
       // An error happened.
     });
     
+  }else{
+    alert("You have to be logged in first to logout.");
   }
 }
 
